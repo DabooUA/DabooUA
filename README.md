@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DabooUA
 - 👀 I’m interested in Ruby on Rails
 - 🌱 I’m currently learning Procedural Ruby, HTML, CSS, Sinatra, Ruby on Rails, React, Redux (Full Stack - Ruby)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for company that will help me to continue grow my skills
 - 📫 How to reach me sbardysh@tutanota.com
 
 <!---
